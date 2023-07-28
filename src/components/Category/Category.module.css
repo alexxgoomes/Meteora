@@ -1,0 +1,19 @@
+.link {
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    margin: 2em 0;
+}
+
+.link img {
+    color: var(--black);
+}
+
+.link p {
+    text-align: center;
+    color: var(--white);
+    background: var(--black);
+    font-size: 16px;
+    font-weight: 500;
+    padding: .5em 2em;
+}

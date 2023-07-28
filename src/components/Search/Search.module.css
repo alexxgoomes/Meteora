@@ -1,0 +1,22 @@
+.container {
+    margin: 1em;
+}
+
+.search {
+    border: none;
+    padding: .65em;
+}
+
+.search::placeholder {
+    font-size: 15px;
+    color: var(--placeholder);
+}
+
+.button {
+    color: var(--white);
+    background-color: var(--black);
+    margin-left: .5em;
+    border-color: var(--white);
+    padding: .5em;
+    cursor: pointer;
+}

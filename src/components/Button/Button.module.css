@@ -1,0 +1,10 @@
+.button {
+    border: none;
+    cursor: pointer;
+    background: var(--purple);
+    color: var(--white);
+    font-size: 16px;
+    font-weight: 500;
+    padding: .5em 1em;
+    margin: .5em;
+}

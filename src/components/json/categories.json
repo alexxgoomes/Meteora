@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "image": "assets/categories/Categoria Camiseta.png",
+        "title": "Camiseta",
+        "category": "categoria-camiseta"
+    },
+    {
+        "id": 2,
+        "image": "assets/categories/Categoria Bolsa.png",
+        "title": "Bolsa",
+        "category": "categoria-bolsa"
+    },
+    {
+        "id": 3,
+        "image": "assets/categories/Categoria Calçados.png",
+        "title": "Calçados",
+        "category": "categoria-calcados"
+    },
+    {
+        "id": 4,
+        "image": "assets/categories/Categoria Calça.png",
+        "title": "Calça",
+        "category": "categoria-calca"
+    },
+    {
+        "id": 5,
+        "image": "assets/categories/Categoria Casacos.png",
+        "title": "Casacos",
+        "category": "categoria-casacos"
+    },
+    {
+        "id": 6,
+        "image": "assets/categories/Categoria Óculos.png",
+        "title": "Óculos",
+        "category": "categoria-oculos"
+    }
+]

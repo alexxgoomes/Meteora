@@ -1,0 +1,33 @@
+.link {
+    display: flex;
+    flex-direction: column;
+    margin: 3em 4em;
+    text-decoration: none;
+    color: var(--black);
+}
+
+.link img {
+    width: 21.875rem;
+    height: 26.375rem;
+    flex-shrink: 0;
+}
+
+.text {
+    border: 1px solid var(--border);
+    border-top: none;
+    width: 21.875em;
+    padding: .5em;
+}
+
+.title,
+.price {
+    padding: .5em;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.description {
+    padding: .5em;
+    font-size: 13px;
+    font-weight: 400;
+}

@@ -1,0 +1,12 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    background: var(--black);
+}
+
+.navigation {
+    display: flex;
+    justify-content: left;
+    padding: 1em;
+}

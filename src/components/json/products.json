@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "image": "assets/products/Camiseta.png",
+        "title": "Camiseta conforto",
+        "description": "Multicores e tamanhos. Tecidos de algodão 100%, fresquinho para o verão. Modelagem unissex.",
+        "price": "R$ 70,00",
+        "product": "camisa"
+    },
+    {
+        "id": 2,
+        "image": "assets/products/Calça.png",
+        "title": "Calça Alfaiatada",
+        "description": "Modelo Wide Leg alfaiataria em linho. Uma peça pra vida toda!",
+        "price": "R$ 180,00",
+        "product": "calca"
+    },
+    {
+        "id": 3,
+        "image": "assets/products/Tenis.png",
+        "title": "Tênis Chunky",
+        "description": "Snicker casual com solado mais alto e modelagem robusta. Modelo unissex.",
+        "price": "R$ 250,00",
+        "product": "tenis"
+    },
+    {
+        "id": 4,
+        "image": "assets/products/Jaqueta.png",
+        "title": "Jaqueta Jeans",
+        "description": "Modelo unissex oversized com gola de camurça. Atemporal e autêntica!",
+        "price": "R$ 150,00",
+        "product": "jaqueta"
+    },
+    {
+        "id": 5,
+        "image": "assets/products/óculos.png",
+        "title": "Óculos Redondo",
+        "description": "Armação metálica em grafite com lentes arredondadas. Sem erro!",
+        "price": "R$ 120,00",
+        "product": "oculos"
+    },
+    {
+        "id": 6,
+        "image": "assets/products/Bolsa.png",
+        "title": "Bolsa Coringa",
+        "description": "Bolsa camel em couro sintético de alta duração. Ideal para acompanhar você por uma vida!",
+        "price": "R$ 120,00",
+        "product": "bolsa"
+    }
+]

@@ -2,6 +2,8 @@
   <h1>7º Challenge Front-end Alura</h1>
 </div>
 
+**Em desenvolvimento...**
+
 O **Meteora** é uma A Meteora é uma empresa fictícia de comércio eletrônico de roupas atemporais, casuais e sem gênero. Foi desenvolvida como resultado de um Desafio Front-End (7ª edição) para alunos da [Alura](https://www.alura.com.br) (escola de tecnologia).
 
 ---

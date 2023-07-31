@@ -4,6 +4,8 @@
 
 **Em desenvolvimento...**
 
+[Link para o site](https://meteora-beta.vercel.app/)
+
 O **Meteora** é uma A Meteora é uma empresa fictícia de comércio eletrônico de roupas atemporais, casuais e sem gênero. Foi desenvolvida como resultado de um Desafio Front-End (7ª edição) para alunos da [Alura](https://www.alura.com.br) (escola de tecnologia).
 
 ---
